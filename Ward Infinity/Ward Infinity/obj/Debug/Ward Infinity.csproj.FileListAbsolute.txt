@@ -1,0 +1,79 @@
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Ward Infinity.dll.config
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Ward Infinity.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Ward Infinity.pdb
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Antlr3.Runtime.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Newtonsoft.Json.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.Helpers.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.Mvc.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.Optimization.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.Razor.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.WebPages.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\WebGrease.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.Helpers.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.Mvc.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.Optimization.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.Razor.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.WebPages.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Newtonsoft.Json.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Antlr3.Runtime.pdb
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\obj\Debug\Ward Infinity.csproj.AssemblyReference.cache
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\obj\Debug\Ward Infinity.csproj.CoreCompileInputs.cache
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\obj\Debug\Ward Infinity.csproj.CopyComplete
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\obj\Debug\Ward Infinity.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\obj\Debug\Ward Infinity.pdb
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\csc.exe
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\csc.exe.config
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\csc.rsp
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\csi.exe
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\csi.exe.config
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\csi.rsp
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.AppContext.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Console.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Net.Http.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\vbc.exe
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\vbc.exe.config
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\vbc.rsp
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dee Jax\Documents\GitHub\WardInfinity\Ward Infinity\Ward Infinity\bin\roslyn\VBCSCompiler.exe.config
