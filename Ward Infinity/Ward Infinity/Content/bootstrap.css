@@ -10873,13 +10873,6 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-
-  .dropdown:hover .dropdown-menu {
-    display: block;
-  }
-  .dropdown .dropdown-menu {
-    display: none;
-  }
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
