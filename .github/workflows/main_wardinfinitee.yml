@@ -23,6 +23,9 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: "main"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    new-lines:
+    type: unix
   build:
     runs-on: windows-latest
     needs: run-lint
